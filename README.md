@@ -1,5 +1,5 @@
 # colorblind-lcd
-An LCD config file to ease red-green colorblindness 
+An LCD config file for red-green colorblindness 
 
 I've only tested this on my MacBook Pro (15-inch, Late 2011) with anti glare screen.
 
